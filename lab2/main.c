@@ -12,7 +12,7 @@ void calculate(int N) {
 
 int main() {
     int N;
-    N = 375000000;
+    N = 1000000000;
     calculate(N);
     return 0;
 }
